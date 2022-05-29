@@ -15,6 +15,7 @@ namespace Parcial_PrograX.Clases
         public string dpi { get; set; }
         public  int idrubros { get; set; }
 
+        public double sueldo { get; set; }
 
     }
 }
