@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Parcial_PrograX.Interfaces
 {
-    interface  Icliente
+   public interface  Icliente
     {
         interface ICrearCliente
         {
